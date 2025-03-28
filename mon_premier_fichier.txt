@@ -2,4 +2,6 @@ Bonjour tout le monde !
 Est ce que tout va bien?
 C'est la forme!
 Et aujourd'hui, ça va toujours ?????
+Du super texte écrit depuis RStudio
+ET
 Du texte vraiment génial depuis l'IDE Github
