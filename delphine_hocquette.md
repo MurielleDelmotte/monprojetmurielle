@@ -5,3 +5,4 @@
 "Robin Louvel"
 "Pascaline Lebreton"
 "Charlotte Guérineau"
+"Delphine Hocquette"
